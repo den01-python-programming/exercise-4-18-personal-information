@@ -1,6 +1,6 @@
 # Exercise 4.18 Personal Information
 
-The program described here should be implemented in the class `PersonalInformationCollection`. **NB!** Do not modify the class `PersonalInformation`.
+The program described here should be implemented in the exercise file `exercise.py`. **NB!** Do not modify the class `PersonalInformation`.
 
 After the user has entered the last set of details (they enter an empty first name), exit the repeat statement.
 
